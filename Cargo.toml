@@ -1,0 +1,2 @@
+[workspace]
+members = ["section_01_basics/ch_01_hello_world", "section_01_basics/ch_02_types_variables"]
